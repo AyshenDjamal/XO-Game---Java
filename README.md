@@ -1,7 +1,7 @@
-**XO (Tic-Tac-Toe) Oyunu: Konsol Əsaslı Oyunçunun vs Kompüter**
+# XO (Tic-Tac-Toe) Oyunu: Konsol Əsaslı Oyunçunun vs Kompüter
 # XO(Tic-Tac-Toe)Game: Console-Based Player vs Computer
 Mənim Java ilə ilk layihəm - XO Oyunu
-My first project with Java - the XO Game
+ My first project with Java - the XO Game
 
 ---
 
@@ -17,6 +17,7 @@ This is a **Tic-Tac-Toe** (XO) game that runs on the console. The game is played
 - **İstifadəçi və Kompüterin Hərəkətləri**: Oyunçu öz hərəkətini seçir, kompüter isə təsadüfi şəkildə hərəkət edir.  
 - **Qalib və Bərabərlik**: Oyun bitdikdən sonra, qalib elan edilir və ya bərabərlik nəticəsi göstərilir.  
 - **Konsol Əsaslı İstifadəçi İnterfeysi**: Oyun yalnız terminalda və ya konsolda oynanılır.
+  
 
 - **Two Player Mode**: Play against the computer.  
 - **User and Computer Moves**: The player selects their move, and the computer makes a random move.  
@@ -33,4 +34,4 @@ This is a **Tic-Tac-Toe** (XO) game that runs on the console. The game is played
 ## Quraşdırma və Başlatma / Setup and Run:  
 1. Layihəni endirin / Clone the project:
    ```bash
-   git clone https://github.com/istifadəçi/ad-xo-game.git
+   git clone https://github.com/AyshenDjamal/XO-Game---Java.git
