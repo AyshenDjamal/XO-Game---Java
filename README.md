@@ -1,5 +1,5 @@
-# <span style="color:green;">XO (Tic-Tac-Toe) Oyunu: Konsol Əsaslı Oyunçunun vs Kompüter</span>
-<h2 style="color:green;">İki Oyunçu Modu:</h2> Oyunçu ilə kompüter arasında qarşılaşma. 
+# XO (Tic-Tac-Toe) Oyunu: Konsol Əsaslı Oyunçunun vs Kompüter
+# XO(Tic-Tac-Toe)Game: Console-Based Player vs Computer
 
 Mənim Java ilə ilk layihəm - XO Oyunu  
 My first project with Java - the XO Game
