@@ -19,7 +19,7 @@ This is a **Tic-Tac-Toe** (XO) game that runs on the console. The game is played
 - **Qalib və Bərabərlik**: Oyun bitdikdən sonra, qalib elan edilir və ya bərabərlik nəticəsi göstərilir.  
 - **Konsol Əsaslı İstifadəçi İnterfeysi**: Oyun yalnız terminalda və ya konsolda oynanılır.
 
-
+&nbsp;
 
 - **Two Player Mode**: Play against the computer.  
 - **User and Computer Moves**: The player selects their move, and the computer makes a random move.  
