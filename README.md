@@ -1,7 +1,7 @@
 # XO (Tic-Tac-Toe) Oyunu: Konsol Əsaslı Oyunçunun vs Kompüter
 # XO(Tic-Tac-Toe)Game: Console-Based Player vs Computer
----
-Mənim Java ilə ilk layihəm - XO Oyunu
+
+Mənim Java ilə ilk layihəm - XO Oyunu  
 My first project with Java - the XO Game
 
 ---
